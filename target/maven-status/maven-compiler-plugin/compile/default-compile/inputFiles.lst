@@ -1,0 +1,17 @@
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/BookingSimApplication.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/config/CorsConfig.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/config/SeedData.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/dto/BookingDto.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/dto/CreateBookingRequest.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/dto/PropertyDto.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/dto/UpsertPropertyRequest.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/model/Booking.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/model/Property.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/repo/BookingRepository.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/repo/PropertyRepository.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/service/BookingService.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/spec/PropertySpecs.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/web/AdminPropertyController.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/web/ApiExceptionHandler.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/web/BookingController.java
+/Users/Chabelly/Downloads/booking-sim-v2 2/backend/src/main/java/com/portfolio/bookingsim/web/PropertyController.java
