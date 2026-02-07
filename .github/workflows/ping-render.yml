@@ -1,0 +1,14 @@
+name: Ping Render
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping health endpoint
+        run: |
+          curl -fsS https://sim-booking-backend-1.onrender.com/health >/dev/null
